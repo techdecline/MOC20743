@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=effCxj-S3t8&list=PLDCEho7foSooHYGxYqUj2Q6C7usp4a
 
 # Parse PowerShell from Transcript
 https://github.com/jaapbrasser/Events/blob/master/PSConfEurope2017/Breakdown%20the%20GUI%20-%20PowerShell%20logging%20to%20automate%20everything/Demo2.ps1
+
+# Software defined Networking in Windows Server 2016
+https://channel9.msdn.com/Events/Ignite/Australia-2015/INF324
