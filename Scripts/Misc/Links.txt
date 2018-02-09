@@ -24,3 +24,6 @@ https://github.com/jaapbrasser/Events/blob/master/PSConfEurope2017/Breakdown%20t
 
 # Software defined Networking in Windows Server 2016
 https://channel9.msdn.com/Events/Ignite/Australia-2015/INF324
+
+# Configure Manage out for Direct Access Clients
+https://www.packtpub.com/books/content/configuring-manage-out-directaccess-clients
