@@ -5,7 +5,7 @@ $i = 1
 foreach ($disk in $diskArr) {
     $disk | get-disk | set-disk -IsOffline $false
     $disk | Get-Disk | Initialize-Disk -PartitionStyle GPT
-    $disk | Get-Disk | New-Partition -UseMaximumSize -AssignDriveLetter | Format-Volume -FileSystem NTFS -NewFileSystemLabel "Disk$i" 
+    $disk | Get-Disk | New-Partition -UseMaximumSize -AssignDriveLetter | Format-Volume -FileSystem NTFS -NewFileSystemLabel "Disk$i"
     $i = $i + 1
 }
 
@@ -27,4 +27,4 @@ Install-WindowsFeature -Name "Failover-Clustering","FS-FileServer" `
 
 # Validate and Create Cluster
 Test-Cluster -Node "LON-SVR2","LON-SVR3"
-New-Cluster -Name Cluster1 -Node "LON-SVR2","LON-SVR3" -StaticAddress "172.16.0.125"va
+New-Cluster -Name Cluster1 -Node "LON-SVR2","LON-SVR3" -StaticAddress "172.16.0.125"
