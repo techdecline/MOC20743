@@ -27,3 +27,15 @@ https://channel9.msdn.com/Events/Ignite/Australia-2015/INF324
 
 # Configure Manage out for Direct Access Clients
 https://www.packtpub.com/books/content/configuring-manage-out-directaccess-clients
+
+# What's new in Storage in Windows Server
+https://docs.microsoft.com/en-us/windows-server/storage/whats-new-in-storage
+
+# Microsoft Blog: managed Service Accounts
+https://blogs.technet.microsoft.com/askpfeplat/2012/12/16/windows-server-2012-group-managed-service-accounts/
+
+# Microsoft Ignite 2018 Session Recording: Storage Migration Service
+https://www.youtube.com/watch?v=sZ9Qa5nlRTU
+
+# DeploymentResearch Blog - Alles rund um Betriebssystembereitstellung, MDT, ...
+https://deploymentresearch.com/Research
